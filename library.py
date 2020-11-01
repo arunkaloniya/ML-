@@ -8,6 +8,8 @@ import seaborn as sn
 
 # Reading Input dataset 
 
+# Comments being added on 1st Nov 
+
 input_data=pd.read_csv(r'C:\Users\Arun\gitlib\ml-2\CarPrice_Assignment.csv')
 
 input_data.columns
